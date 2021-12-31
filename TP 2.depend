@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1640840883 source:c:\users\leandro\documents\c\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"MisFunciones.h"
+
+1640911659 source:c:\users\leandro\documents\c\tp 2\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1640838654 c:\users\leandro\documents\c\tp 2\misfunciones.h
+
